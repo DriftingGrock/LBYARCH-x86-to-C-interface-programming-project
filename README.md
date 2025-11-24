@@ -60,5 +60,7 @@ Average speed-up of: (2.89 + 2.15 + 3.41) / 3 = 8.45 / 3 = 2.82x faster than C
 ![alt text](image.png)
 ![alt text](image-1.png)
 
+slight discrepancy due to us rounding up
+
 Presentation Recording:
 https://drive.google.com/file/d/10kaPYXrzxMg8aad669Z_VEXpYeh87-Cu/view?usp=sharing
